@@ -9,6 +9,8 @@ compressé en Zip qui fournit l'EPG pour la France.
 J'ai donc écrit un morceau de code en C# qui télécharge le fichier
 et le décompresse pour qu'il soit lisible avec Kodi.
 
+Il faut dotNet Framework 4.5, installé sur le PC pour que ça fonctionne.
+
 Le fichier XML fonctionne pour tout logiciel utilisant l'EPG.
 
 Voici le lien de Téléchargement du binaire compilé : 
