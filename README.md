@@ -13,5 +13,4 @@ Il faut dotNet Framework 4.5, installé sur le PC pour que ça fonctionne.
 
 Le fichier XML fonctionne pour tout logiciel utilisant l'EPG.
 
-Voici le lien de Téléchargement du binaire compilé : 
-https://drive.google.com/drive/folders/0B7PjzAwMEwKsZmVzM1I1LXZjaDA?usp=sharing
+Dans l'extention de Kodi : "PVR Simple IPTV", choisir playlist local et choisir le fichiers m3u du dépot, choisir xml local (après avoir exécuter l'exe) situé dans "documents\EPG" et pour les logos choisir logo local et choisir le dossier créer après avoir dézippé le fichier "logo.zip"
