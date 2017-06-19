@@ -13,4 +13,4 @@ Il faut dotNet Framework 4.5, installé sur le PC pour que ça fonctionne.
 
 Le fichier XML fonctionne pour tout logiciel utilisant l'EPG.
 
-Dans l'extention de Kodi : "PVR Simple IPTV", choisir playlist local et choisir le fichiers m3u du dépot, choisir xml local (après avoir exécuter l'exe) situé dans "documents\EPG" et pour les logos choisir logo local et choisir le dossier créer après avoir dézippé le fichier "logo.zip"
+Dans l'extention de Kodi : "PVR Simple IPTV", choisir playlist local et choisir le fichiers m3u du dépot (si vous êtes chez Free, sinon faudra éditer votre propre fichier m3u), choisir xml local (après avoir exécuter l'exe) le fichier xml se situe dans "documents\EPG" et pour les logos choisir logos locaux et choisir le dossier créer après avoir dézippé le fichier "logo.zip"
