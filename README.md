@@ -1,5 +1,7 @@
 # Mise à Jour EPG sous Windows
 
+A l'heure actuelle cela ne fonctionne plus... j'essaierais plus tard de le mettre à jour pour que ça refonctionne, en fait le fichier xml tout fait sur le net, n'est plus mis à jour depuis le 20 août.
+
 J'utilise Kodi pour regarder la TV, avec l'Add-On "PVR Simple IPTV",
 et il y a la possiblité d'ajouter les programmes TV sous format XML.
 
